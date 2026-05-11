@@ -21,7 +21,7 @@ President of the Board — Wezafon Sp. z o.o. (brand: **Laboratorium Elektroniki
 Court-Appointed Expert in Digital Forensics & Teleinformatics  
 District Court in Tarnobrzeg, Poland  
 
-🌐 [laboratorium-elektroniki.pl](https://laboratorium-elektroniki.pl)  
+🌐 [laboratoriumelektroniki.pl](https://laboratoriumelektroniki.pl)  
 📘 [facebook.com/LaboratoriumElektroniki](https://facebook.com/LaboratoriumElektroniki)  
 🐙 [github.com/studiogsm](https://github.com/studiogsm)
 
